@@ -1,0 +1,9 @@
+/Trash
+config_postgres.py
+parser_tengrinewskz.py
+chromedriver.exe
+/__pycache__
+/.idea
+/venv
+index.html
+result.html
